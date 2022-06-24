@@ -1,5 +1,5 @@
 # covid19_information
-
+<p align="center"><img src="[https://i.imgur.com/3UKgyH7.png]"></p>
 A new Flutter project.
 
 ## Getting Started
